@@ -27,7 +27,7 @@ statement;
 // Пустые инструкции - Empty Statements
 ;;;;;;;;;; 
 
-// Self-invoking function
+// Self-invoking fun
 script;(function(){}());script; 
 
 /* Нужно ставить semicolon перед своей самовызывающейся функции. 
