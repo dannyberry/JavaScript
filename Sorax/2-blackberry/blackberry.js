@@ -1,7 +1,6 @@
 // Output function; Функция вывода чего-либо в консоль
 console.log("Hello Blackberry!") 
 
-
 /* 
 Statements, but are not defined. 
 Можно писать инструкции как в строку, так и чередуя.
@@ -15,7 +14,6 @@ statement; statement; statement;
 statement;
 statement;
 statement;
-
 
 // Блок инструкций (составная инструкция) - используется для объединения в одну инструкцию. Block Statement.
 {
